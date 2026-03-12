@@ -35,7 +35,7 @@ icmp
 ## DNS Analysis
 ![DNS Analysis](screenshots/dns_analysis.png)
 
-## Protocol Stattistics
+## Protocol Statistics
 ![Protocol Statistics](screenshots/protocol_stats.png)
 
 ## HTTP Packet Details
