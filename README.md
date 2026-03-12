@@ -21,3 +21,6 @@ icmp
 
 ## Findings
 
+![Packet Capture](screenshots/packets.png)
+
+
