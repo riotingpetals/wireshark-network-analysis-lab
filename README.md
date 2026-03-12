@@ -33,4 +33,14 @@ icmp
 ![Packet Capture](screenshots/packets.png)
 
 ## DNS Analysis
+![DNS Analysis](screenshots/dns_analysis.png)
+
+## Protocol Stattistics
+![Protocol Statistics](screenshots/protocol_stats.png)
+
+## HTTP Packet Details
+![HTTP Packet Details](screenshots/http_packet_details.png)
+
+## ICMP Analysis
+![ICMP Analysis](screenshots/icmp_analysis.png)
 
