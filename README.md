@@ -20,7 +20,17 @@ http
 icmp
 
 ## Findings
+- HTTP packets expose plain text readable headers
+- HTTPS encrypts packet data
+- DNS requests expose domain queries
 
+## Skills Demonstrated
+- Packet analysis
+- Security Monitoring
+- Network protocol identification
+
+## Packet Capture
 ![Packet Capture](screenshots/packets.png)
 
+## DNS Analysis
 
