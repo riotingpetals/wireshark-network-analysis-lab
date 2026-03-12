@@ -1,7 +1,7 @@
 # wireshark-network-analysis-lab
 
 ## Purpose
-Analuze network traffic and identify protocols using Wireshark
+Analyze network traffic and identify protocols using Wireshark
 
 ## Tools Involved
 - Wireshark
